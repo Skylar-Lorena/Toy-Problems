@@ -2,6 +2,10 @@
 
 This repository contains solutions to three toy problems in JavaScript.
 
+## Author
+
+Lorenah M.
+
 ## Challenge 1: Student Grade Generator
 
 Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade:
