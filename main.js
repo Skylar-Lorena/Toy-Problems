@@ -19,7 +19,7 @@ function calculateGrade() {
 
     document.getElementById("grade").textContent = `Grade: ${grade}`;
   }
-
+// SPEED DETECTOR
   function calculate() {
     // get the value of an input field with an id of speed using the document.getElementById() method
     // value is then parsed as an integer using parseInt() and assigned to a variable named speed
