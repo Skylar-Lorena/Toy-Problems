@@ -5,12 +5,13 @@
 /* add global styles */
 body {
     font-family: Arial, sans-serif;
-    border: #3e8e41;
-    margin: 10px;
-    padding: 10px;
-    border-radius: 2em;
-    border-style: double;
-  }
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+div{
+    margin: auto;
+}
   
   h1 {
     text-align: center;
